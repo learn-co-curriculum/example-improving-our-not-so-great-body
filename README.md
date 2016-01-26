@@ -1,10 +1,4 @@
-In the previous lesson we looked at a brief and fairly dry lesson on the MVC (Model-View-Controller) framework. Here again is the original version: 
-
-*There are three parts to MVC; model, view, controller. The model manages the fundamental behaviours and data of the application. This could be retrieved from a database or any other sort of data store.*
-
-*The view is the user interface. This takes data from the model and displays it nicely for the user. Any user interaction in the view is then handed over to the controller.*
-
-*The controller receives user input and makes calls to the model and view to update/modify either. This keeps the main aspects of our application separate.*
+In the previous lesson we looked at a brief and fairly dry lesson on the MVC (Model-View-Controller) framework. 
 
 ## Here's how we reworked it: 
 
