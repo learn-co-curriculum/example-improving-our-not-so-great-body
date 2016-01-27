@@ -1,6 +1,6 @@
 In the previous lesson we looked at a brief and fairly dry lesson on the MVC (Model-View-Controller) framework. 
 
-## Here's how we reworked it: 
+## Here's How We Reworked It
 
 *We could create create a web application in one file, with thousands of lines of code in the same document. It would work. But it would also present us with some very big challenges. It would be close to impossible to debug our program, and our code would be virtually unreadable.
 Instead, we use frameworks (Sinatra being one of them), to separate an application's code by function and make writing, reading, and debugging code a much more pleasant and simple experience.*
