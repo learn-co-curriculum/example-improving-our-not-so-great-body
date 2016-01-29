@@ -28,4 +28,4 @@ In Sinatra, controllers are written in Ruby and consist of 'routes' that take re
 
 
 
-<a href='https://learn.co/lessons/example-improving-our-not-so-great-body' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/example-improving-our-not-so-great-body' title='In the previous lesson we looked at a brief and fairly dry lesson on the MVC (Model-View-Controller) framework. '>In the previous lesson we looked at a brief and fairly dry lesson on the MVC (Model-View-Controller) framework. </a> on Learn.co and start learning to code for free.</p>
